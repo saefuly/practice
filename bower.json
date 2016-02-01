@@ -1,0 +1,26 @@
+{
+  "name": "practice",
+  "homepage": "https://github.com/saefuly/practice",
+  "authors": [
+    "saeful_y <saeful@lussa.net>"
+  ],
+  "description": "contoh penggunaan html + css dasar.",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "practice"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "Ionicons": "ionicons#~2.0.1"
+  }
+}

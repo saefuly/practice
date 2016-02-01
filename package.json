@@ -1,0 +1,22 @@
+{
+  "name": "practice",
+  "version": "0.0.1",
+  "description": "contoh penggunaan html + css dasar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saefuly/practice.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "saeful yusuf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saefuly/practice/issues"
+  },
+  "homepage": "https://github.com/saefuly/practice#readme"
+}
