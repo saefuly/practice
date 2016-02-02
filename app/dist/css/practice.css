@@ -1,0 +1,57 @@
+/* Formating margin */
+.margin-t-s{margin-top: 10px;}
+.margin-t-m{margin-top: 20px;}
+.margin-t-l{margin-top: 30px;}
+.margin-t-xl{margin-top: 50px;}
+.margin-b-s{margin-bottom: 10px;}
+.margin-b-m{margin-bottom: 20px;}
+.margin-b-l{margin-bottom: 30px;}
+.margin-b-xl{margin-bottom: 50px;}
+.margin-l-s{margin-left: 10px;}
+.margin-l-m{margin-left: 20px;}
+.margin-l-l{margin-left: 30px;}
+.margin-l-xl{margin-left: 50px;}
+.margin-r-s{margin-right: 10px;}
+.margin-r-m{margin-right: 20px;}
+.margin-r-l{margin-right: 30px;}
+.margin-r-xl{margin-right: 50px;}
+.margin-v-s{margin-left: 10px; margin-right:10px;}
+.margin-v-m{margin-left: 20px; margin-right:20px;}
+.margin-v-l{margin-left: 30px; margin-right:30px;}
+.margin-v-xl{margin-left: 50px; margin-right:50px;}
+.margin-h-s{margin-top: 10px; margin-bottom:10px;}
+.margin-h-m{margin-top: 20px; margin-bottom:20px;}
+.margin-h-l{margin-top: 30px; margin-bottom:30px;}
+.margin-h-xl{margin-top: 50px; margin-bottom:50px;}
+
+/* Formating padding */
+.padding-t-s{padding-top: 10px;}
+.padding-t-m{padding-top: 20px;}
+.padding-t-l{padding-top: 30px;}
+.padding-t-xl{padding-top: 50px;}
+.padding-b-s{padding-bottom: 10px;}
+.padding-b-m{padding-bottom: 20px;}
+.padding-b-l{padding-bottom: 30px;}
+.padding-b-xl{padding-bottom: 50px;}
+.padding-l-s{padding-left: 10px;}
+.padding-l-m{padding-left: 20px;}
+.padding-l-l{padding-left: 30px;}
+.padding-l-xl{padding-left: 50px;}
+.padding-r-s{padding-right: 10px;}
+.padding-r-m{padding-right: 20px;}
+.padding-r-l{padding-right: 30px;}
+.padding-r-xl{padding-right: 50px;}
+.padding-v-s{padding-left: 10px; padding-right:10px;}
+.padding-v-m{padding-left: 20px; padding-right:20px;}
+.padding-v-l{padding-left: 30px; padding-right:30px;}
+.padding-v-xl{padding-left: 50px; padding-right:50px;}
+.padding-h-s{padding-top: 10px; padding-bottom:10px;}
+.padding-h-m{padding-top: 20px; padding-bottom:20px;}
+.padding-h-l{padding-top: 30px; padding-bottom:30px;}
+.padding-h-xl{padding-top: 50px; padding-bottom:50px;}
+
+/* component */
+body {
+	margin: 0px;
+	padding: 0px;
+}
